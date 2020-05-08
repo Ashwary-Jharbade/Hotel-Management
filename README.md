@@ -1,2 +1,2 @@
-# Hotel Management
- Django based hotel management application
+# Hotel Management Application
+ Django based Hotel management application
